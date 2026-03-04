@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fall-Mesteren",
+    "slug": "fall-mesteren",
+    "description": "En fokusert mikro-kalkulator for håndverkere og selvbyggere som beregner høydeforskjell for rør og avløp. Konverterer enkelt mellom prosent, forhold (1:X) og mm/m til konkret høydeforskjell i cm og mm. Inkluderer forhåndsinnstilte norske standarder for avløp, drens og terreng.",
+    "features": [
+      "Lengde-input med tydelig merking",
+      "Fall-spesifikasjon med tre typer",
+      "Preset-knapper for norske standarder",
+      "Umiddelbar resultatvisning",
+      "Mobilvennlig byggeplassdesign"
+    ],
+    "createdAt": "2026-02-26"
+  }
+]
