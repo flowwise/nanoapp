@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#5C4033"/>
+  <!-- Terrasse-bord (horisontale striper) -->
+  <rect x="80" y="180" width="352" height="32" rx="8" fill="#A0785A"/>
+  <rect x="80" y="228" width="352" height="32" rx="8" fill="#C49A6C"/>
+  <rect x="80" y="276" width="352" height="32" rx="8" fill="#A0785A"/>
+  <rect x="80" y="324" width="352" height="32" rx="8" fill="#C49A6C"/>
+  <!-- Bjelker (vertikale) -->
+  <rect x="112" y="160" width="16" height="216" rx="4" fill="#3E2B20" opacity="0.6"/>
+  <rect x="248" y="160" width="16" height="216" rx="4" fill="#3E2B20" opacity="0.6"/>
+  <rect x="384" y="160" width="16" height="216" rx="4" fill="#3E2B20" opacity="0.6"/>
+  <!-- Hus-silhuett øverst -->
+  <path d="M160 160 L256 100 L352 160 Z" fill="#FAF7F2" opacity="0.9"/>
+</svg>

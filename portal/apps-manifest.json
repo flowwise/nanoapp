@@ -1,5 +1,18 @@
 [
   {
+    "name": "Terrasse-Mesteren",
+    "slug": "terrasse-mester",
+    "description": "Kalkulator for terrassebord og skruer – beregn nøyaktig antall løpemeter og skruepakker basert på terrassemål, bordformat og glippe.",
+    "features": [
+      "Bordformat-velger med quick-select (28x120, 28x145, 36x145)",
+      "Terrasse-dimensjons-input med CC-avstand-dropdown",
+      "Beregningsmotor med løpemeter og skrueantall",
+      "Visuell terrasse-preview i SVG",
+      "Reset og del-funksjon med URL-parametere"
+    ],
+    "createdAt": "2026-03-12"
+  },
+  {
     "name": "Fall-Mesteren",
     "slug": "fall-mesteren",
     "description": "En fokusert mikro-kalkulator for håndverkere og selvbyggere som beregner høydeforskjell for rør og avløp. Konverterer enkelt mellom prosent, forhold (1:X) og mm/m til konkret høydeforskjell i cm og mm. Inkluderer forhåndsinnstilte norske standarder for avløp, drens og terreng.",
