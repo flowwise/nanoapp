@@ -1,5 +1,18 @@
 [
   {
+    "name": "FitPop",
+    "slug": "fitpop-mikrotrening",
+    "description": "Spontan mikrotrening-logger for travle folk og småbarnsforeldre – logg en økt på under 5 sekunder, se fremgangen hope seg opp mot store mål over tid.",
+    "features": [
+      "Hurtiglogg (core loop) – logg en økt på under 5 sekunder",
+      "Brukerprofiler (multi-bruker, lokalt)",
+      "Aktivitetsbibliotek med innebygde og egendefinerte aktiviteter",
+      "Dashboard og dagsoversikt",
+      "Historikk og progresjonsgraf"
+    ],
+    "createdAt": "2026-06-17"
+  },
+  {
     "name": "Terrasse-Mesteren",
     "slug": "terrasse-mester",
     "description": "Kalkulator for terrassebord og skruer – beregn nøyaktig antall løpemeter og skruepakker basert på terrassemål, bordformat og glippe.",
